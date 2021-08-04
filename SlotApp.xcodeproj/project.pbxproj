@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D914B0C26BAED120069EDA2 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D914B0B26BAED120069EDA2 /* CardView.swift */; };
 		8DAA70A226BA3A8A00BF60F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA70A126BA3A8A00BF60F4 /* AppDelegate.swift */; };
 		8DAA70A426BA3A8A00BF60F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA70A326BA3A8A00BF60F4 /* SceneDelegate.swift */; };
 		8DAA70A626BA3A8A00BF60F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA70A526BA3A8A00BF60F4 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D914B0B26BAED120069EDA2 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		8DAA709E26BA3A8A00BF60F4 /* SlotApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlotApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAA70A126BA3A8A00BF60F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8DAA70A326BA3A8A00BF60F4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8DAA70A126BA3A8A00BF60F4 /* AppDelegate.swift */,
 				8DAA70A326BA3A8A00BF60F4 /* SceneDelegate.swift */,
 				8DAA70A526BA3A8A00BF60F4 /* ContentView.swift */,
+				8D914B0B26BAED120069EDA2 /* CardView.swift */,
 				8DAA70A726BA3A8F00BF60F4 /* Assets.xcassets */,
 				8DAA70AC26BA3A9000BF60F4 /* LaunchScreen.storyboard */,
 				8DAA70AF26BA3A9000BF60F4 /* Info.plist */,
@@ -147,6 +150,7 @@
 			files = (
 				8DAA70A226BA3A8A00BF60F4 /* AppDelegate.swift in Sources */,
 				8DAA70A426BA3A8A00BF60F4 /* SceneDelegate.swift in Sources */,
+				8D914B0C26BAED120069EDA2 /* CardView.swift in Sources */,
 				8DAA70A626BA3A8A00BF60F4 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
